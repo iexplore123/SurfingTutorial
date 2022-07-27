@@ -11,6 +11,7 @@
 如果你还在使用`xx安全浏览器`，`xx极速浏览器`等浏览器，虽然这些浏览器并不会对你的上网有任何实质上的影响，但是我更推荐下面几个浏览器。
 
 ## 下载浏览器
+pc端:
 
 ### Microsoft Edge (新)
 
@@ -26,6 +27,23 @@
 如果你无法下载上面的Edge可以试试这个
 
 [下载地址](https://www.centbrowser.cn/)
+###  Also try Firefox
+火狐是一个致力于隐私保护的浏览器，与 Microsoft Edge（新）功能上差不多，详细查阅[Firefox 浏览器与 Microsoft Edge 之间的比较_Mozilla官方](https://www.mozilla.org/zh-CN/firefox/browsers/compare/edge/)
+
+安卓端:
+快扔掉手机预装的看新闻浏览器吧！我们建议您使用一下几款以获得纯粹的浏览体验↓（酷安应用商店可搜索下载）
+### via 一个轻量级浏览器，安装包大小不到1M，支持主页个性化，广告屏蔽等功能，官网:[https://viayoo.com/zh-cn/](https://viayoo.com/zh-cn/)
+
+### edge安卓版/firefox安卓版
+不直接支持电脑端的插件安装，由于书签同步功能，所以在此建议建议。
+
+   支持插件的浏览器
+### kiwi浏览器
+一款开源浏览器，github仓库：[https://github.com/kiwibrowser/src.next](https://github.com/kiwibrowser/src.next)
+
+### yandex浏览器
+俄罗斯的浏览器，默认搜索引擎对中文不友好
+
 
 
 ## 使用浏览器
